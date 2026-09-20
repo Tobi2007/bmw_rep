@@ -827,9 +827,9 @@ body {
 
   .mobile-logo {
     display: block !important;
-    justify-self: center;
+    margin-left: auto;
+    margin-right: auto;
     height: 42px;
-    grid-column: 2;
     width: auto;
   }
 
